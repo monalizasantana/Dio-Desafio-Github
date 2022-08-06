@@ -1,5 +1,6 @@
 # Repositório de Desafio de Projeto sobre Git/Hub
- Repositório criado para desafios de projetos 
+Esse projto é um repositório com anotações, arquivos e desafios do DIO. 
+
  
  ## Link úteis
 [sintaxe básica Markdown]()
